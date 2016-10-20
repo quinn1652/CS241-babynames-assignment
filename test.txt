@@ -1,0 +1,10 @@
+hello world
+***** MAIN MENU *****
+
+1) Search for a name
+2) View most popular names
+3) View least popular names
+4) View number of unique names
+5) Display all names
+6) Quit
+
